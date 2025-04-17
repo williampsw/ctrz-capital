@@ -1,1 +1,28 @@
+body {
+  background-color: #0d1b2a;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.list-group-item {
+  white-space: pre-wrap;
+  background-color: #1b263b;
+  color: #ffffff;
+  border: 1px solid #415a77;
+}
+
+.card {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.lead {
+  color: #aebbcf;
+}
 
